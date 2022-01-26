@@ -1,10 +1,10 @@
 Strange that I did not know him then,
 That friend of mine!
-+
+Line1
 One friendly sign;
--
+Line2
 To make me see
-Line3
+-
 For praising me.
-Line4
++
 Deleted line
